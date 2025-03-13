@@ -1,5 +1,17 @@
-# 💫 About Me:
-🔭 I’m currently transitioning from desktop developer to web developer<br><br>🌱 I’m currently learning Laravel framework @ Udemy and from other site<br>here's my final output from my Udemy Intermediate level course https://getbuy.rf.gd<br><br>👨‍💻 All of my projects are available at https://github.com/Karerin for web applications <br>and https://gitlab.com/CarylLynBual for desktop applications <br>
+<h3>🔭 Currently maintaining</h3> 
+<p>A Laravel application at our company.</p>
+
+<h3>👩🏻‍💻 Learning</h3>
+<p>MERN stack development.</p>
+
+<h3>🌱 Final project</h3>
+<p>From my Udemy Intermediate course: <a href="https://getbuy.rf.gd" target="_blank">GetBuy</a></p>
+
+<h3>👨‍💻 My projects</h3>
+<ul>
+  <li><a href="https://github.com/Karerin" target="_blank">GitHub</a> (Web applications)</li>
+  <li><a href="https://gitlab.com/CarylLynBual" target="_blank">GitLab</a> (Desktop applications)</li>
+</ul>
 
 
 # 💻 Tech Stack:
