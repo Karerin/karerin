@@ -2,7 +2,7 @@
 <p>A Laravel application at our company.</p>
 
 <h3>👩🏻‍💻 Learning</h3>
-<p>MERN stack development.</p>
+<p>MERN stack development with GraphQL and TypeScript.</p>
 
 <h3>🌱 Final project</h3>
 <p>From my Udemy Intermediate course: <a href="https://getbuy.rf.gd" target="_blank">GetBuy</a></p>
